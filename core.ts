@@ -1,5 +1,5 @@
 (() => {
-  let version: number = 9;
+  let version: number = 10;
   let msg = `boo ${version}`;
   document.querySelector("body").innerHTML = msg;
 })();
